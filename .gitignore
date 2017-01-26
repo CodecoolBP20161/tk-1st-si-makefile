@@ -1,0 +1,8 @@
+**/nbproject/**
+**/.build/**
+**/.project
+**/.settings/**
+**/.cproject
+**/*.o
+**/language.settings.xml
+**/*cdt*prefs
